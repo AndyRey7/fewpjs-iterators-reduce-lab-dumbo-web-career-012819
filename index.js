@@ -1,3 +1,3 @@
 // Code your solution here
 
-let batteries =
+let Totalbatteries =
